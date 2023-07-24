@@ -26,7 +26,7 @@ If you click on the note on the left, the note contents will show up on the righ
 ![screenshot displayed note](Develop/public/assets/images/05.png) 
 
 Finally when you want to go back to writing a new note, just click the + button on the top right to resume.
-![screenshot of + button](Develop/public/assets/images/08.png) 
+![screenshot of + button](Develop/public/assets/images/06.png) 
 
 
 ## Usage

@@ -11,22 +11,22 @@ Afterwards install the required dependencies by typing this into the terminal np
 Now you can run the project backend by first running node server.js in the terminal. Next you then go into your browser and enter localhost:3001 into the url address.
 
 You will find the homepage.
-![screenshot of Homepage](Develop/public/assets/images/01.png) 
+![screenshot of Homepage](/public/assets/images/01.png) 
 
 Once you click started you will see the app
-![screenshot of page](Develop/public/assets/images/02.png) 
+![screenshot of page](/public/assets/images/02.png) 
 
 To use the app type in the the text boxes in the right.
-![screenshot of textboxes](Develop/public/assets/images/03.png) 
+![screenshot of textboxes](/public/assets/images/03.png) 
 
 Once you hit the save button on the top right. The note will be on the left.
-![screenshot of saved note](Develop/public/assets/images/04.png) 
+![screenshot of saved note](/public/assets/images/04.png) 
 
 If you click on the note on the left, the note contents will show up on the right.
-![screenshot displayed note](Develop/public/assets/images/05.png) 
+![screenshot displayed note](/public/assets/images/05.png) 
 
 Finally when you want to go back to writing a new note, just click the + button on the top right to resume.
-![screenshot of + button](Develop/public/assets/images/06.png) 
+![screenshot of + button](/public/assets/images/06.png) 
 
 
 ## Usage

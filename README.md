@@ -23,12 +23,11 @@ Once you hit the save button on the top right. The note will be on the left.
 ![screenshot of saved note](Develop/public/assets/images/04.png) 
 
 If you click on the note on the left, the note contents will show up on the right.
-![screenshot of ![screenshot of displayed note](assets/images/04.png) 
+![screenshot displayed note](Develop/public/assets/images/05.png) 
 
 Finally when you want to go back to writing a new note, just click the + button on the top right to resume.
-![screenshot of + button](Develop/public/assets/images/05.png) 
-You will go back to to resume note taking.
-![screenshot of + button](Develop/public/assets/images/06.png) 
+![screenshot of + button](Develop/public/assets/images/08.png) 
+
 
 ## Usage
 You can use the project to see how a project is structered and how information flows using Express.js. Also its a handy tool to jot down notes for personal use.

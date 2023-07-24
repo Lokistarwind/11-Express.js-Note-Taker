@@ -11,23 +11,23 @@ Afterwards install the required dependencies by typing this into the terminal np
 Now you can run the project backend by first running node server.js in the terminal. Next you then go into your browser and enter localhost:3001 into the url address.
 
 You will find the homepage.
-![screenshot of Homepage](Develop/public/assets/images/01) 
+![screenshot of Homepage](Develop/public/assets/images/01.png) 
 
 Once you click started you will see the app
-![screenshot of page](Develop/public/assets/images/02) 
+![screenshot of page](Develop/public/assets/images/02.png) 
 
 To use the app type in the the text boxes in the right.
-![screenshot of textboxes](Develop/public/assets/images/03) 
+![screenshot of textboxes](Develop/public/assets/images/03.png) 
 
 Once you hit the save button on the top right. The note will be on the left.
-![screenshot of saved note](Develop/public/assets/images/04) 
+![screenshot of saved note](Develop/public/assets/images/04.png) 
 
 If you click on the note on the left, the note contents will show up on the right.\![screenshot of ![screenshot of displayed note](assets/images/04) 
 
 Finally when you want to go back to writing a new note, just click the + button on the top right to resume.
-![screenshot of + button](Develop/public/assets/images/05) 
+![screenshot of + button](Develop/public/assets/images/05.png) 
 You will go back to to resume note taking.
-![screenshot of + button](Develop/public/assets/images/06) 
+![screenshot of + button](Develop/public/assets/images/06.png) 
 
 ## Usage
 You can use the project to see how a project is structered and how information flows using Express.js. Also its a handy tool to jot down notes for personal use.

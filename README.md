@@ -22,7 +22,8 @@ To use the app type in the the text boxes in the right.
 Once you hit the save button on the top right. The note will be on the left.
 ![screenshot of saved note](Develop/public/assets/images/04.png) 
 
-If you click on the note on the left, the note contents will show up on the right.\![screenshot of ![screenshot of displayed note](assets/images/04) 
+If you click on the note on the left, the note contents will show up on the right.
+![screenshot of ![screenshot of displayed note](assets/images/04.png) 
 
 Finally when you want to go back to writing a new note, just click the + button on the top right to resume.
 ![screenshot of + button](Develop/public/assets/images/05.png) 

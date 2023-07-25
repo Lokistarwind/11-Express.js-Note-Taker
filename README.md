@@ -10,6 +10,8 @@ Afterwards install the required dependencies by typing this into the terminal np
 
 Now you can run the project backend by first running node server.js in the terminal. Next you then go into your browser and enter localhost:3001 into the url address.
 
+Other option is run it on herok https://morning-temple-51239-0c1b86999c24.herokuapp.com/
+
 You will find the homepage.
 ![screenshot of Homepage](/public/assets/images/01.png) 
 
